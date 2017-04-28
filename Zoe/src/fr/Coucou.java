@@ -1,5 +1,8 @@
 package fr;
 
 public class Coucou {
-  coucou;
+
+	public static void main(String[] args) {
+		
+	}
 }
